@@ -1,4 +1,5 @@
-#include "hphp/runtime/base/base-includes.h"
+#include "hphp/runtime/ext/extension.h"
+#include "hphp/runtime/base/array-iterator.h"
 
 /* snappy */
 #include "snappy/snappy-c.h"
