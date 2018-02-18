@@ -9,5 +9,5 @@ cd $DIRNAME/snappy && cmake .
 cd $DIRNAME/snappy && make
 
 cd $DIRNAME && hphpize
-cd $DIRNAME && cmake .
+cd $DIRNAME && cmake -Wno-dev .
 cd $DIRNAME && make

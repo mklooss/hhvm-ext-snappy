@@ -1,0 +1,7 @@
+/CMakeLists.txt
+/run-test
+/CMakeCache.txt
+/CMakeFiles/
+/Makefile
+/cmake_install.cmake
+/snappy.so
