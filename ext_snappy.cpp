@@ -3,7 +3,7 @@
 
 /* snappy */
 #include "snappy/snappy-c.h"
-#include "snappy/snappy-version.h"
+#include "snappy/snappy-stubs-public.h"
 
 #include <string>
 
